@@ -51,9 +51,9 @@ Elit duis reprehenderit dolore ut dolore aliqua ipsum aliqua veniam proident tem
   <img style = "border-radius: 16px; margin-right: 16px;" src="https://images.unsplash.com/photo-1609741199695-096c491c7ccc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=200&h=400&q=80" width="200" />
   <img style = "border-radius: 16px;" src="https://images.unsplash.com/photo-1609741199984-45b1c92bb0dd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=200&h=400&q=80" width="200" />
 </p>
-<center>
+<p align = "center">
 <img src = "https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg">
-</center>
+</p>
 <br>
 
 ------------
