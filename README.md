@@ -37,7 +37,7 @@ Ipsum non dolore sint labore est sit quis consectetur ut sint. Mollit aliquip do
 
 ## ⭐ Curs MD
 
-<img style="float: left; padding: 16px" src="https://developer.apple.com/design/human-interface-guidelines/foundations/app-icons/images/app-icon-realistic-materials_2x.png" width = 128>
+<img align="left" src="https://developer.apple.com/design/human-interface-guidelines/foundations/app-icons/images/app-icon-realistic-materials_2x.png" width = 128>
 
 Exercitation laborum fugiat do sunt commodo esse. Eu id id consectetur. Veniam fugiat nulla eu velit. Labore voluptate sit sunt. Veniam elit est deserunt officia cupidatat eiusmod sunt id. Et sunt eiusmod magna eu laboris elit ea ullamco et sunt.
 
@@ -59,7 +59,7 @@ Elit duis reprehenderit dolore ut dolore aliqua ipsum aliqua veniam proident tem
 ------------
 
 ## ⭐ Tachowork
-<img style="float: right; padding: 16px" src="https://developer.apple.com/design/human-interface-guidelines/foundations/app-icons/images/app-icon-realistic-materials_2x.png" width = 128>
+<img align="right" src="https://developer.apple.com/design/human-interface-guidelines/foundations/app-icons/images/app-icon-realistic-materials_2x.png" width = 128>
 
 Exercitation laborum fugiat do sunt commodo esse. Eu id id consectetur. Veniam fugiat nulla eu velit. Labore voluptate sit sunt. Veniam elit est deserunt officia cupidatat eiusmod sunt id. Et sunt eiusmod magna eu laboris elit ea ullamco et sunt.
 
