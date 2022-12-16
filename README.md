@@ -6,9 +6,7 @@
 </p>
 <br>
 <br>
-<center>
-  <h1>Radu Istrati</h1>
-</center>
+<h1 align = "center" >Radu Istrati</h1>
 <p align = "center">
   <a href = "https://google.com">
     <img style = "border-radius: 8px; margin: 6px;" src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&">
@@ -33,7 +31,7 @@ Ipsum non dolore sint labore est sit quis consectetur ut sint. Mollit aliquip do
 </br>
 
 
-# Projects
+<h1 align = "center" >Projects</h1>
 
 ## ⭐ Curs MD
 
